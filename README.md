@@ -2,4 +2,4 @@
 
 Online store hosted in Azure static web pages with Chatbot for FAQ.
 
-I do not hold copyright for the Online Store template used here.
+Online store template used here is licensed under CC BY 3.0.
